@@ -103,3 +103,4 @@ More observations are available in the manual → [instruction.pdf](instruction.
 ## 👤 Author
 
 **MS3DprintSK (Sedláček)**
+This work is licensed under a CC BY-NC 4.0 License. Attribution to MS3DprintSK (Sedláček) is required.
