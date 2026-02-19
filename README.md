@@ -29,7 +29,7 @@ Detailed wiring diagrams can be found on **page 4** of the documentation.
 
 ### 🎮 Transmitter Wiring Diagram
 
-![Transmitter Wiring](images/Transmiter.png)
+![Transmitter Wiring](images/Transmitter.png)
 
 ---
 
